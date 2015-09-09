@@ -1,6 +1,6 @@
 ---
 # defaults file for nginx
-openresty_version: 1.9.3.1
+openresty_version: 1.7.7.2
 with_luajit: true
 with_dav: true
 with_flv: true
